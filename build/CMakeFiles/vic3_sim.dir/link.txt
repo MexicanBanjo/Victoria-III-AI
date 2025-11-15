@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/vic3_sim.dir/link.d CMakeFiles/vic3_sim.dir/src/sim/main.c.o CMakeFiles/vic3_sim.dir/src/sim/world.c.o CMakeFiles/vic3_sim.dir/src/sim/building.c.o CMakeFiles/vic3_sim.dir/src/sim/pop.c.o CMakeFiles/vic3_sim.dir/src/ai/ai_engine.c.o -o vic3_sim
